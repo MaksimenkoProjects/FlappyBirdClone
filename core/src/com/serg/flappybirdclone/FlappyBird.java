@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import java.util.Random;
 
 public class FlappyBird extends ApplicationAdapter {
+	//Test saved to GitHub.com
 	SpriteBatch batch;
 	Texture background;
 	Texture[] bird;
