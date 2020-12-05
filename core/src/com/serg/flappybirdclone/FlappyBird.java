@@ -136,10 +136,6 @@ public class FlappyBird extends ApplicationAdapter {
                 }
 
 
-                Gdx.app.log("qqqqqqqqq", "fallingSpeed " + fallingSpeed);
-                Gdx.app.log("qqqqqqqqq", "flyHeight " + flyHeight);
-                Gdx.app.log("qqqqqqqqq", "GDX_HEIGHT " + Gdx.graphics.getHeight());
-
 
             } else {
                 gameStateFlag = 2;
